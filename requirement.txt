@@ -1,0 +1,5 @@
+$pip install wordcloud
+$pip install wikipedia
+$pip install pillow
+
+#You have to install these dependency to run the program. else it show's error
